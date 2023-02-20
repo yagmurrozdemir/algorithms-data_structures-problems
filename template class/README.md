@@ -1,1 +1,1 @@
- vector class implementation
+ generic vector class implementation
