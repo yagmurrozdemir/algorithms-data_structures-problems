@@ -1,2 +1,2 @@
-# algorithms-data_structures-problems
-collection of algorithms and data structure example codes
+# algorithms and data structures problems
+This repository contains a collection of algorithms and data structure example codes, problem solutions, and related implementations. The purpose of the repository is to provide a comprehensive resource for developers and computer science students to learn, practice, and improve their programming skills. The repository includes various examples and exercises that enable users to develop their problem-solving abilities and become proficient in software development. Users can access a wide range of algorithmic topics and data structures, explore their applications, and learn how to implement them in their own projects.
